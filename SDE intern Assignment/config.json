@@ -1,0 +1,10 @@
+{
+    "logging": {
+      "level": "INFO",
+      "log_files": {
+        "api1": "logs/log1.log",
+        "api2": "logs/log2.log",
+        "api3": "logs/log3.log"
+      }
+    }
+  }
